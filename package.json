@@ -1,0 +1,12 @@
+{
+  "name": "encryptbox",
+  "version": "1.0.0",
+  "description": "A secure backend application using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "krishnapriya1020",
+  "license": "MIT",
+  "dependencies": {}
+}
